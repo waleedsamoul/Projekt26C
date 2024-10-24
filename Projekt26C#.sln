@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekt26C#", "Projekt26C#.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podd.DL", "Podd.DL\Podd.DL.csproj", "{551668E4-BB8A-4265-BBBF-336B605F95C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podd.BL", "..\Podd.BL\Podd.BL.csproj", "{486F4EA7-122F-4666-93DF-95E95DA8957F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{551668E4-BB8A-4265-BBBF-336B605F95C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{551668E4-BB8A-4265-BBBF-336B605F95C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{551668E4-BB8A-4265-BBBF-336B605F95C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486F4EA7-122F-4666-93DF-95E95DA8957F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486F4EA7-122F-4666-93DF-95E95DA8957F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486F4EA7-122F-4666-93DF-95E95DA8957F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486F4EA7-122F-4666-93DF-95E95DA8957F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
