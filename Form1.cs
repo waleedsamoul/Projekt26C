@@ -26,5 +26,20 @@ namespace Projekt26C_
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonTaBortPodd_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void InfoAvsnitt_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

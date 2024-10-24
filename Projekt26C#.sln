@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projekt26C#", "Projekt26C#.csproj", "{9409ECCC-EE41-4C7D-AD84-84811727B217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekt26C#", "Projekt26C#.csproj", "{9409ECCC-EE41-4C7D-AD84-84811727B217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoddDataLayer", "..\PoddDataLayer\PoddDataLayer.csproj", "{E0FE8345-1860-4BFA-9B94-79A588B8D3EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoddBusinessLayer", "..\PoddBusinessLayer\PoddBusinessLayer.csproj", "{6AA371F5-2D38-4716-9716-47E995D27AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoddModels", "..\PoddModels\PoddModels.csproj", "{7DFFE2DC-0C92-45B3-9933-B85664CC243E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{9409ECCC-EE41-4C7D-AD84-84811727B217}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9409ECCC-EE41-4C7D-AD84-84811727B217}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9409ECCC-EE41-4C7D-AD84-84811727B217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FE8345-1860-4BFA-9B94-79A588B8D3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FE8345-1860-4BFA-9B94-79A588B8D3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FE8345-1860-4BFA-9B94-79A588B8D3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FE8345-1860-4BFA-9B94-79A588B8D3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA371F5-2D38-4716-9716-47E995D27AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA371F5-2D38-4716-9716-47E995D27AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA371F5-2D38-4716-9716-47E995D27AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA371F5-2D38-4716-9716-47E995D27AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DFFE2DC-0C92-45B3-9933-B85664CC243E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFFE2DC-0C92-45B3-9933-B85664CC243E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFFE2DC-0C92-45B3-9933-B85664CC243E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFFE2DC-0C92-45B3-9933-B85664CC243E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
